@@ -10,7 +10,7 @@ The goal of this project is to improve the quality of blurred and pixelated face
 
 ## Comparison
 ![boy](https://github.com/nick860/SRGAN_Vs_Auto_CelebA/assets/55057278/0ce07cf2-095c-4a04-b310-4c8b732d11b3)
-![girl](https://github.com/nick860/SRGAN_Vs_Auto_CelebA/assets/55057278/c8a76f6e-313d-427d-87ec-0c746152c00b)
+![image](https://github.com/nick860/SRGAN_Vs_Auto_CelebA/assets/55057278/4dd38f03-3d3a-4d95-a05e-09894b0a5492)
 
 The project includes a detailed comparison of these models, highlighting how SRGAN outperforms the autoencoder in terms of:
 - Detail preservation
